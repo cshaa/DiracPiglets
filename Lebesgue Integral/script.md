@@ -89,7 +89,7 @@ These rules are a stricter version of algebra, called a $\sigma$-algebra. And it
 Whatcha say? That this is too abstract? That you have no idea how to use it? Oh, I see, you do have a point – this definition *is* very abstract. Let's do a few examples to hopefully sort things out.
 
 ## Examples of measurable spaces
-We'll start with the simplest possible example: we'll make $X$ a finite set. Let's say it contains six objects: a pineapple, a rubber duck, a pencil and three leaves. Our measuring device $\mu$ will be a digital scale. Let's also say that we know for certain that $\mu$ can measure:
+We'll start with the simplest possible example: we'll make $X$ a finite set. Let's say it contains six objects: a pineapple, a rubber duck, a pencil and three leaves. Our measuring device $\mu$ will be a digital scale, which can measure all objects in a set $M$ and for each returns a real number. Let's also say that we know for certain that $\mu$ can measure:
 
 * the rubber duck together with the pineapple
 * the rubber duck together with the pencil
