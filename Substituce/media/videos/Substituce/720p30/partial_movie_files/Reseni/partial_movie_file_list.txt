@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/mir/Disk/Projects/Python/Manim/Substituce/media/videos/Substituce/720p30/partial_movie_files/Reseni/1342159004_218522187_2689311732.mp4'
+file 'file:/home/mir/Disk/Projects/Python/Manim/Substituce/media/videos/Substituce/720p30/partial_movie_files/Reseni/1353618911_2776469516_1101666562.mp4'
+file 'file:/home/mir/Disk/Projects/Python/Manim/Substituce/media/videos/Substituce/720p30/partial_movie_files/Reseni/1353618911_3194237325_1751042876.mp4'
+file 'file:/home/mir/Disk/Projects/Python/Manim/Substituce/media/videos/Substituce/720p30/partial_movie_files/Reseni/1353618911_3804228987_1438458016.mp4'
+file 'file:/home/mir/Disk/Projects/Python/Manim/Substituce/media/videos/Substituce/720p30/partial_movie_files/Reseni/1353618911_2226370357_1567723306.mp4'
+file 'file:/home/mir/Disk/Projects/Python/Manim/Substituce/media/videos/Substituce/720p30/partial_movie_files/Reseni/1353618911_3638504700_3439344138.mp4'
+file 'file:/home/mir/Disk/Projects/Python/Manim/Substituce/media/videos/Substituce/720p30/partial_movie_files/Reseni/1353618911_3093489707_2717417532.mp4'
+file 'file:/home/mir/Disk/Projects/Python/Manim/Substituce/media/videos/Substituce/720p30/partial_movie_files/Reseni/1353618911_826654608_137291446.mp4'
